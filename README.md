@@ -122,5 +122,3 @@ AgentCore is successful when:
 3. **Third**: Implement BaseAgent
 4. **Fourth**: Test with a minimal example
 5. **Fifth**: Begin DevMate migration
-
-This is our Xmmersia moment - building something that will last decades! 🚀
